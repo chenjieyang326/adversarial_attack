@@ -1,8 +1,12 @@
 # adversarial_attack
-Final Project for Duke ECE 661
+## Final Project for Duke ECE 661  
+## Authors: Chenjie Yang, Mutian Ling, Xiaoyu Wang
 
-Model Traing and Adversarial Attacks are implemented in /src
 
-Reports are in /docs
+### Model Traing and Adversarial Attacks are implemented in /src  
 
-Intermediate results are in /figure
+
+### Reports are in /docs  
+
+
+### Intermediate results are in /figure  
